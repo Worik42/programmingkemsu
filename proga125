@@ -3,11 +3,11 @@ progi m-165
 // prog125.cpp: определяет точку входа для консольного приложения.
 //
 
-#include "stdafx.h"<br>
+#include "stdafx.h"
 <br>
-int zad1(float x);<br>
-int zad2(float x);<br>
-int zad5(float x);<br>
+int zad1(float x);
+int zad2(float x);
+int zad5(float x);
 int main()
 {
 	int x;
